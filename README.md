@@ -5,8 +5,25 @@ HELLO. I AM MAKING CHANGES TO THIS. -KONNOR
 I am making some more changes to the project
 Making some more changes
 I AM MAKING SOME CHANGES,
-I AM MAKING SOME CHANGES,
-I AM MAKING SOME CHANGES
+__I AM MAKING SOME CHANGES,__
+*I AM MAKING SOME CHANGES*
+
+* Item1
+* Item2
+    * Item3
+    * Item 4
+
+
+As Sun Tsu once said
+> All Warfare is Based.
+
+- [x] Made some changes
+- [x] Add some more changes
+- [] Add EVEN MORE changes
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/Konnor-Filip/hello-world/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
